@@ -1,4 +1,4 @@
-import { Router, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { FaGithub } from 'react-icons/fa';
 import PropTypes from 'react';
 
